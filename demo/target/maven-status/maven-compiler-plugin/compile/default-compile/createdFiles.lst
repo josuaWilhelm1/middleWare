@@ -1,0 +1,4 @@
+middleware\demo\repository\CustomerRepository.class
+middleware\demo\controller\CustomerController.class
+middleware\demo\model\Customer.class
+middleware\demo\MiddlewareApplication.class
